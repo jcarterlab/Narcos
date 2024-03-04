@@ -1,22 +1,22 @@
 country,region,terror_risk,violent_crime,sexual_violence,total_danger
-Argentina,South America,7.13,5.22,5.57,5.78
-Belize,Central America,6.07,10.0,7.279999999999999,8.34
-Bolivia,South America,7.99,5.0,10.0,7.0
-Brazil,South America,8.19,8.620000000000001,6.14,7.89
-Chile,South America,6.74,5.03,6.14,5.74
-Colombia,South America,9.1,9.6,9.55,9.46
-Costa Rica,Central America,5.0,6.52,6.71,6.19
-Cuba,The Caribbean,5.91,5.18,5.57,5.46
-Dominican Republic,The Caribbean,6.42,6.35,8.41,6.88
-Ecuador,South America,7.8,7.02,7.279999999999999,7.28
-El Salvador,Central America,7.6,7.8100000000000005,6.14,7.34
-Guatemala,Central America,8.11,8.16,6.71,7.78
-Haiti,The Caribbean,10.0,6.82,9.55,8.3
-Honduras,Central America,8.94,10.0,6.71,8.91
-Mexico,Central America,9.21,9.73,8.41,9.27
-Nicaragua,Central America,8.23,6.4399999999999995,6.14,6.81
-Panama,Central America,6.46,6.77,7.279999999999999,6.82
-Paraguay,South America,7.01,5.83,6.14,6.2
-Peru,South America,8.7,5.43,8.98,7.13
-Uruguay,South America,5.0,6.04,5.0,5.52
-Venezuela,South America,10.0,8.03,7.279999999999999,8.33
+Argentina,South America,7.13,5.22,5.57,5.97
+Belize,Central America,6.07,10.0,7.279999999999999,7.78
+Bolivia,South America,7.99,5.0,10.0,7.66
+Brazil,South America,8.19,8.620000000000001,6.14,7.65
+Chile,South America,6.74,5.03,6.14,5.97
+Colombia,South America,9.1,9.6,9.55,9.42
+Costa Rica,Central America,5.0,6.52,6.71,6.08
+Cuba,The Caribbean,5.91,5.18,5.57,5.55
+Dominican Republic,The Caribbean,6.42,6.35,8.41,7.06
+Ecuador,South America,7.8,7.02,7.279999999999999,7.37
+El Salvador,Central America,7.6,7.8100000000000005,6.14,7.18
+Guatemala,Central America,8.11,8.16,6.71,7.66
+Haiti,The Caribbean,10.0,6.82,9.55,8.79
+Honduras,Central America,8.94,10.0,6.71,8.55
+Mexico,Central America,9.21,9.73,8.41,9.12
+Nicaragua,Central America,8.23,6.4399999999999995,6.14,6.94
+Panama,Central America,6.46,6.77,7.279999999999999,6.84
+Paraguay,South America,7.01,5.83,6.14,6.33
+Peru,South America,8.7,5.43,8.98,7.7
+Uruguay,South America,5.0,6.04,5.0,5.35
+Venezuela,South America,10.0,8.03,7.279999999999999,8.44
